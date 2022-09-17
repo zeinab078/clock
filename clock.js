@@ -1,7 +1,7 @@
 function showTime(){
-    const data=new Date();
-    let h=data.getHours();
-    let m=data.getMinutes();
-    let s=data.getSeconds();
-    let sisson="AM";
+    const date= new Date();
+    let h=date.getHours();
+    let m=date.getMinutes();
+    let s=date.getSeconds();
+    let status="AM";
 }
